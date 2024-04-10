@@ -7,11 +7,7 @@
   "supports": "!uwp & !x86",
   "dependencies": [
     {
-      "name": "vcpkg-cmake",
-      "host": true
-    },
-    {
-      "name": "vcpkg-cmake-config",
+      "name": "vcpkg-tool-meson",
       "host": true
     }
   ]
